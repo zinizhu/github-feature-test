@@ -3,3 +3,9 @@ Hello world!
 First change.
 
 Second change.
+
+Test Squash:
+
+First change.
+
+Second change.
