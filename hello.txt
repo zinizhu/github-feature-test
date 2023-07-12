@@ -13,3 +13,5 @@ Second change.
 Test merge:
 
 First change.
+
+Second change.
