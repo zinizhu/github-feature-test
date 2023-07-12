@@ -9,3 +9,7 @@ Test Squash:
 First change.
 
 Second change.
+
+Test merge:
+
+First change.
